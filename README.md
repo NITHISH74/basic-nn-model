@@ -115,8 +115,7 @@ ai.predict(x_n_n)
 
 ## OUTPUT:
 ### Training Loss Vs Iteration Plot:
-![image](https://user-images.githubusercontent.com/94164665/225721286-29e0d619-dcf9-4537-92b4-bc4f63474701.png)
-
+![image](https://github.com/NITHISH74/basic-nn-model/assets/94164665/a70836d1-8a66-4a19-a116-a5ce03042900)
 
 ### Test Data Root Mean Squared Error:
 
