@@ -11,8 +11,7 @@ Neural networks consist of simple input/output units called neurons. In this art
 Regression helps in establishing a relationship between a dependent variable and one or more independent variables. Although neural networks are complex and computationally expensive, they are flexible and can dynamically pick the best type of regression, and if that is not enough, hidden layers can be added to improve prediction.
 
 ## Neural Network Model:
-![image](https://user-images.githubusercontent.com/94164665/225720954-d6f42f19-4ece-424a-9620-8298feb68723.png)
-
+![image](https://github.com/NITHISH74/basic-nn-model/assets/94164665/46294186-da3b-476f-ab5c-537779458b96)
 ## DESIGN STEPS:
 
 ### STEP 1:
